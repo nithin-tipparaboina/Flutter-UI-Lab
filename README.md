@@ -1,40 +1,42 @@
-# FitTrack
+# FitTrack – Flutter Lab Project
 
-FitTrack is a real-world fitness utility application built using only concepts from Flutter Lab Experiments 1, 2 and 3.
+## Student Details
 
-## Exactly 3 Modules
+- **Name:** T. NITHIN
+- **Roll No:** 24AG1A05AY
+- **College:** ACE Engineering College
+- **Course:** UI Design – Flutter Lab (CS506PC)
 
-### 1. BMI Calculator
-- Enter height and weight
-- Calculate BMI using Dart arithmetic and functions
-- Display BMI category
+## Project Description
 
-### 2. Calorie Calculator
-- Enter age, height and weight
-- Select activity level
-- Estimate daily calorie requirement
+FitTrack is a real-world fitness utility project developed using Flutter and Dart. The project demonstrates concepts introduced throughout the Flutter Lab experiments.
 
-### 3. Workout Tracker
-- Select workout categories
-- Mark workouts as completed
-- Display today's completed workout count
+The project includes fitness-related modules such as BMI calculation, calorie estimation, and workout tracking.
 
-## Experiment Mapping
+## Experiment Progress
 
-### Experiment 1 - Dart
-Variables, arithmetic, functions and conditional statements are used for BMI, calorie and workout calculations.
+| 1 | Installation of Flutter & Dart SDK and Introduction to Dart Programming | ✅ Completed |
+| 2 | Exploring Flutter Widgets and Implementing Different Layout Structures using Row, Column, and Stack Widgets | ✅ Completed |
+| 3 | Design a Responsive User Interface Using MediaQuery and LayoutBuilder | ✅ Completed |
 
-### Experiment 2 - Widgets
-Text, Icon, Container, Row, Column, Stack, ElevatedButton, TextField and other basic Flutter widgets are used to create the UI.
 
-### Experiment 3 - Responsive UI
-MediaQuery, LayoutBuilder, Orientation and Expanded are used so the application adapts to different screen sizes.
+## Project Structure
 
-## Run
-
-```bash
-flutter pub get
-flutter run
-```
-
-No Firebase, Provider, database, external API or navigation package is used.
+```text
+fittrack_3_modules_exp1_to_3/
+│
+├── Experiment-01-Dart-Basics/
+│   └── dart_basics.dart
+│
+├── Experiment-02-Widgets-Layouts/
+│   └── screenshots/
+│
+├── Experiment-03-Responsive-UI/
+│   └── screenshots/
+│
+├── lib/
+│   ├── main.dart
+│   ├── experiment_02.dart
+│   └── responsive_ui.dart
+│
+└── README.md
