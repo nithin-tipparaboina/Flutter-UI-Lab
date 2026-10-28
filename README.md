@@ -58,7 +58,7 @@ The project combines fitness-related features with Flutter UI components, respon
 
 ## FitTrack App Output
 
-![FitTrack Dashboard](dashboard.png)
+![alt text](dashboard.png)
 
 ### 2. BMI Calculator
 
